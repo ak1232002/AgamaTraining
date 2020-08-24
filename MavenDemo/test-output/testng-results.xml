@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6859" started-at="2020-08-24T15:06:36 PDT" finished-at="2020-08-24T15:06:43 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6859" started-at="2020-08-24T15:06:36 PDT" finished-at="2020-08-24T15:06:43 PDT">
+      <class name="com.TestNG.OrangeHRM">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.TestNG.OrangeHRM@1f7030a6]" name="launchApp" is-config="true" duration-ms="5090" started-at="2020-08-24T15:06:36 PDT" finished-at="2020-08-24T15:06:41 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.TestNG.OrangeHRM@1f7030a6]" name="login" duration-ms="1729" started-at="2020-08-24T15:06:41 PDT" finished-at="2020-08-24T15:06:43 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quitApp()[pri:0, instance:com.TestNG.OrangeHRM@1f7030a6]" name="quitApp" is-config="true" duration-ms="1" started-at="2020-08-24T15:06:43 PDT" finished-at="2020-08-24T15:06:43 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+      </class> <!-- com.TestNG.OrangeHRM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
